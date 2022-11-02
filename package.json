@@ -1,0 +1,23 @@
+{
+  "name": "bs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerPuig1997/BS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogerPuig1997/BS/issues"
+  },
+  "homepage": "https://github.com/RogerPuig1997/BS#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}

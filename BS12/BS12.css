@@ -10934,4 +10934,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}/*# sourceMappingURL=BS05.css.map */
+}
+div {
+  min-height: 50px;
+}/*# sourceMappingURL=BS12.css.map */
